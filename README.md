@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlbertSchreuder-0
+- 👋 Hi, I’m AlbertSchreuder
 - 👀 I’m interested in just about anything that runs code.
 - 🌱 I’m currently learning survival skills (not the post apocalyptic type, but the kids learning from home type)
 
